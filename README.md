@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter  chat application.
+Fully Functioning Chat Application With Flutter and Firebase
 
 ## In this app-
 
@@ -11,3 +11,6 @@ A new Flutter  chat application.
 - One thing I forgot to include in the video is you can see at what time a message is sent by clicking on that message.
 - Username is unique so you can't use a username which is used by someone else.
 - You can reset the password if you forget.
+
+
+watch video [here](bj)
