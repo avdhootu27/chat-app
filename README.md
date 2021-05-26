@@ -2,15 +2,12 @@
 
 A new Flutter  chat application.
 
-## Getting Started
+## In this app-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Firstly you have to send a chat request to someone with whom you want to start a conversation. If that person accepts the request he/she will be added into your contacts and you can start a conversation.
+- You can delete the sent request, received request, contact and a message, and for that you just need to horizontally swipe over it.
+- Your google account's photo will be used if you sign in with google.
+- You can get the read receipts. If the message is sent and not seen by another person then all corners of the message will be rounded and if another person reads the message then the bottom right corner will not look rounded anymore.
+- One thing I forgot to include in the video is you can see at what time a message is sent by clicking on that message.
+- Username is unique so you can't use a username which is used by someone else.
+- You can reset the password if you forget.
